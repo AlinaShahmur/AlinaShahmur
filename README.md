@@ -3,7 +3,7 @@
 Hi! My name is Alina and I am Frontend Developer. I am passionate about web development and new technologies and like to build scalable user interfaces. My specialization is frontend development, but in general I also familiar with server-side technologies and the working principle of the web server. 
 
 ## My Story ##
-I graduated from Novosibirsk State Technical University. I have a bachelor's degree in Applied computer science in economics.I moved to Israel in 2018. When I moved to Israel I decided that first of all I need to learn the Hebrew language due to feel undependent in the country. After 2 years of my residence in Israel I started to learn Web development independently and when I realized that I would like to develop in this sphere I took the full stack web development frontal course in Technion continuing education.
+I graduated from Novosibirsk State Technical University. I have a bachelor's degree in Applied computer science in economics.I moved to Israel in 2018. When I moved to Israel I decided that first of all I need to learn the Hebrew language. After 2 years of my residence in Israel I started to learn Web development independently and when I realized that I would like to develop in this sphere I took the full stack web development frontal course in Technion continuing education.
 I have built some independent projects and within the course. You can get to know with some of them on my GitHub profile and on my Web site portfolio.
 
 ## My Skills ##
