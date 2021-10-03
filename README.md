@@ -1,6 +1,6 @@
 ## About me ##
 
-Hi! My name is Alina and I am Web Developer. I am passionate about web development and new technologies and like to build scalable user interfaces. My specialization is frontend development, but in general I also familiar with server-side technologies and the working principle of the web server. 
+Hi! My name is Alina and I am Full Stack Web Developer. I am passionate about web development and new technologies and like to optimize things.  
 My Web site - http://alinashahmurov.herokuapp.com/
 
 ## My Story ##
