@@ -8,6 +8,12 @@ I graduated from Novosibirsk State Technical University. I have a bachelor's deg
 I have built some own independent projects and within the course. You can get to know with some of them on my GitHub profile and on my Web site portfolio.
 Currently I work in software development company and I am engaged in backend web development on stack nodeJs,MongoDb.
 
+## Education ##
+
+Novosibirsk State Technical University, Applied Computer Science in Economics
+Technion continuing education, Full Stack Web Development
+Self-education (udemy courses)
+
 ## My Skills ##
 
 ### Hard Skills ###
