@@ -17,11 +17,9 @@ Self-education (udemy courses)
 ## My Skills ##
 
 ### Hard Skills ###
-    1.HTML, CSS, JS
-    2.React, Angular
-    3.NodeJS, Express
-    4.C#, ASP.NET
-    5.MongoDB, Microsoft SQL Server
+    • **Programming Languages:** Javascript, Typescript, JAVA
+    • **Frameworks and libraries:** NodeJS, Express, React, Redux, Spring boot
+    • **Databases:** NoSql(MongoDB), SQL(MSSQL, MySql)
 
 ### Soft skills ###
 
