@@ -1,7 +1,6 @@
 ## About me ##
 
 Hi! My name is Alina and I am Full Stack Web Developer. I am passionate about web development and new technologies and like to optimize things.  
-My Web site - http://alinashahmurov.herokuapp.com/
 
 ## My Story ##
 I graduated from Novosibirsk State Technical University. I have a bachelor's degree in Applied computer science in economics.I moved to Israel in 2018. When I moved to Israel I decided that first of all I need to learn the Hebrew language. After 2 years of my residence in Israel I started to learn Web development independently and when I realized that I would like to develop in this sphere I took the full stack web development frontal course in Technion continuing education.
