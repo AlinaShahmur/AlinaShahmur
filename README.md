@@ -1,6 +1,6 @@
 ## About me ##
 
-Hi! My name is Alina and I am a full stack developer with about 1.5 years commercial experience. I am passionate about web development and new technologies and like to optimize things. I have a Bachelor's Degree in Applied computer science and graduated Full stack web development course from Technion continuing education. 
+Hi! My name is Alina and I am a full stack developer with about 1.5 years commercial experience. I have a Bachelor's Degree in Applied computer science and graduated Full stack web development course from Technion continuing education. Autodidact team player with analytical skills and attention to details who is passionate about web development. 
 
 ## Education ##
 
